@@ -1,0 +1,1 @@
+This software allows a singer to control a synthesizer with his or her voice. The best way to get started is to read the paper found in the Downloads section.
