@@ -1,4 +1,4 @@
-# grovecontroller
+# grove-controller
 ### an expressive vocal MIDI controller
 A vocal MIDI controller plugin for Reaper.
 
