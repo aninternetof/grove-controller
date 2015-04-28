@@ -11,3 +11,6 @@ This software was completed as a part of my undergraduate thesis. Here is the ab
 > named Grove is developed and demonstrated. Grove’s pitch and time analyses are shown
 > to be accurate, and it has mappable control signals that go beyond the capabilities of
 > previous audio-to-MIDI converters to facilitate an expressive performance.
+
+
+![alt text] (https://raw.githubusercontent.com/aninternetof/grove-controller/master/grove_screenshot.png)
