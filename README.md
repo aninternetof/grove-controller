@@ -1,5 +1,5 @@
 # grovecontroller
-## an expressive vocal MIDI controller
+### an expressive vocal MIDI controller
 A vocal MIDI controller plugin for Reaper.
 
 This software was completed as a part of my undergraduate thesis. Here is the abstract, and [you can read the paper in full here] (https://uarkive.uark.edu/xmlui/bitstream/handle/10826/187/bhurlbur2011.pdf?sequence=1).
